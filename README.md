@@ -159,13 +159,18 @@ else:
 
 ## OUTPUT:
 Mention the first and second policies along with its state value function and compare them
-![image](https://github.com/user-attachments/assets/87b65818-f9eb-4aed-a63e-da5b2bd9ad01)
-![image](https://github.com/user-attachments/assets/be35672a-1b23-4bae-a27a-77cbf141c5ae)
-![image](https://github.com/user-attachments/assets/107ae178-70c7-40f9-8956-739fcaa7edcd)
-![image](https://github.com/user-attachments/assets/2a2b0940-2626-4583-9767-25b71304d309)
-![image](https://github.com/user-attachments/assets/72c9109a-1ad4-4ea4-a105-f4e59f66e45f)
-![image](https://github.com/user-attachments/assets/34708616-53dd-4df6-9261-3e5f97a14335)
-![image](https://github.com/user-attachments/assets/1a7791fb-7010-48cb-9f87-d0e154d31e05)
+![image](https://github.com/user-attachments/assets/d4825003-6909-44b6-b387-bcaa3ae90408)
+
+![image](https://github.com/user-attachments/assets/0883cfe0-8337-4e99-978f-0720d00ca1d5)
+
+![image](https://github.com/user-attachments/assets/7d0b3b75-30e8-42e6-b21e-3032725edaae)
+
+![image](https://github.com/user-attachments/assets/4a31f842-d14a-4cd8-a89a-66b75d37498f)
+
+![image](https://github.com/user-attachments/assets/37b5d3c3-e2b7-462c-adb6-0ec74f7d2a97)
+
+![image](https://github.com/user-attachments/assets/9bd240f9-b765-41d0-ba0e-2db6c51ce72f)
+
 
 
 ## RESULT:
